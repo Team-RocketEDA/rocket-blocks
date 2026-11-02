@@ -22,3 +22,14 @@ linked), strictly per-PDK.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- From source: [open_pdks](https://github.com/RTimothyEdwards/open_pdks)
+  (builds from [skywater-pdk](https://github.com/google/skywater-pdk)) —
+  follow its README.
+- Prebuilt: [volare](https://github.com/efabless/volare), the PDK version
+  manager used by OpenLane/LibreLane.
+- gdsfactory package: [skywater130](https://github.com/gdsfactory/skywater130)
+  ([docs](https://gdsfactory.github.io/skywater130/)) — pip-installable
+  per its README.

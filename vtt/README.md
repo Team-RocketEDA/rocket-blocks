@@ -22,3 +22,9 @@ strictly per-PDK. Photonic entries link PIC cells instead of footprints.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- gdsfactory package: [vtt](https://github.com/gdsfactory/vtt)
+  ([docs](https://gdsfactory.github.io/vtt)) — pip-installable per its
+  README.

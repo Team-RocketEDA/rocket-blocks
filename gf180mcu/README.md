@@ -22,3 +22,14 @@ linked), strictly per-PDK.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- From source: [open_pdks](https://github.com/RTimothyEdwards/open_pdks)
+  (builds from [gf180mcu-pdk](https://github.com/google/gf180mcu-pdk)) —
+  follow its README.
+- Prebuilt: [volare](https://github.com/efabless/volare), the PDK version
+  manager used by OpenLane/LibreLane.
+- gdsfactory package: [gf180mcu](https://github.com/gdsfactory/gf180mcu)
+  ([docs](https://gdsfactory.github.io/gf180mcu/)) — pip-installable per
+  its README.

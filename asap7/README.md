@@ -23,3 +23,10 @@ which kit revision they were built against.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- Kit mirror: [asap7sc7p5t](https://github.com/The-OpenROAD-Project/asap7sc7p5t)
+  (standard cells + tech files) — follow the kit's own docs for setup.
+- Predictive/academic kit: record the exact kit revision in each
+  entry's `meta.yaml`.

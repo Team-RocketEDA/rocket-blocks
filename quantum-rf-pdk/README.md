@@ -22,3 +22,9 @@ strictly per-PDK.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- gdsfactory package: [quantum-rf-pdk](https://github.com/gdsfactory/quantum-rf-pdk)
+  ([docs](https://gdsfactory.github.io/quantum-rf-pdk/)) —
+  pip-installable per its README.

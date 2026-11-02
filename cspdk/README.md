@@ -22,3 +22,9 @@ strictly per-PDK. Photonic entries link PIC cells instead of footprints.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- gdsfactory package: [cspdk](https://github.com/gdsfactory/cspdk)
+  ([docs](https://gdsfactory.github.io/cspdk/)) — pip-installable per
+  its README.

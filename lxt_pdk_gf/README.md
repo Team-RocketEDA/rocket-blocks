@@ -22,3 +22,9 @@ strictly per-PDK. Photonic entries link PIC cells instead of footprints.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- Package: [lxt_pdk_gf](https://github.com/Luxtelligence/lxt_pdk_gf)
+  ([docs](https://luxtelligence.github.io/lxt_pdk_gf/)) —
+  pip-installable per its README.

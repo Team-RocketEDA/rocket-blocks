@@ -22,3 +22,9 @@ strictly per-PDK. Photonic entries link PIC cells instead of footprints.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- gdsfactory package: [ubc](https://github.com/gdsfactory/ubc)
+  ([docs](https://gdsfactory.github.io/ubc)) — pip-installable per its
+  README (upstream SiEPIC EBeam PDK docs via the repo).

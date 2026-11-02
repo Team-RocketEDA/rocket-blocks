@@ -22,3 +22,11 @@ linked), strictly per-PDK.
 ```
 
 Entry folders are slugs (`lowercase-with-dashes`), unique within this PDK.
+
+## Install the PDK
+
+- Open release: [IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) —
+  follow its README for install.
+- gdsfactory package: [IHP](https://github.com/gdsfactory/IHP)
+  ([docs](https://gdsfactory.github.io/IHP)) — pip-installable per its
+  README.
